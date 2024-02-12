@@ -1,5 +1,5 @@
 FROM lanxic/android-sdk-image:34.0.0
-ENV FLUTTER_VERSION="3.10.3"
+ENV FLUTTER_VERSION="3.16.9"
 ENV FLUTTER_HOME "/home/builderApps/.flutter-sdk"
 ENV PATH $PATH:$FLUTTER_HOME/bin
 
